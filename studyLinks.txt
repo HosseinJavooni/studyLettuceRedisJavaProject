@@ -1,0 +1,3 @@
+https://www.baeldung.com/java-redis-lettuce
+https://lettuce.io/core/release/reference/#redis-command-interfaces
+https://www.youtube.com/watch?v=H_DFM_CCEGI
